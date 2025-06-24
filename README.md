@@ -105,11 +105,3 @@ jupyter notebook completed_model_1.ipynb
 Feel free to fork this repository, raise issues, or submit PRs. Your feedback is welcome!
 
 ---
-
-## 📝 License
-
-This project is licensed under the MIT License.
-
----
-
-Would you like a custom project cover image or a preview badge to display in your GitHub repo?
